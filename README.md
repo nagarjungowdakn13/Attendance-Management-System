@@ -1,4 +1,4 @@
-# Class Attendance System (Attendance Modules)
+# Attendance Management System (Class Attendance System / Attendance Modules)
 
 A full‑stack Database Management System for managing classes, students, teachers, attendance, results, and simple dashboards. The project uses React + Vite on the frontend and Node.js + Express + MongoDB (via Mongoose) on the backend.
 
