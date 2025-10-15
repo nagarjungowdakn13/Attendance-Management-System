@@ -231,6 +231,8 @@ This project is provided for educational purposes. You may adapt and extend it a
 <img width="1878" height="919" alt="Screenshot 2025-10-15 071249" src="https://github.com/user-attachments/assets/0652cbdb-2703-4f3f-9b7c-d9af97d0abd9" />
 <img width="1883" height="932" alt="Screenshot 2025-10-15 071302" src="https://github.com/user-attachments/assets/992efa96-d5d2-438d-9f44-85f03768ee6f" />
 <img width="1884" height="928" alt="Screenshot 2025-10-15 071311" src="https://github.com/user-attachments/assets/5831881d-4450-4e10-99dc-c7b49fadd0eb" />
+<img width="1760" height="938" alt="Screenshot 2025-10-15 072711" src="https://github.com/user-attachments/assets/0054d359-aa22-41e2-92f2-f0d70cfc34d7" />
+<img width="1761" height="934" alt="Screenshot 2025-10-15 072729" src="https://github.com/user-attachments/assets/2b88fd81-93ba-4957-973b-24b2277b9f41" />
 
 
 
